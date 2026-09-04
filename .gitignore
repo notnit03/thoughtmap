@@ -4,3 +4,10 @@ node_modules/
 test_groq.mjs
 *.log
 commavq/
+public/brain.glb
+public/brain.png
+public/brain/top*.png
+public/brain/bottom.png
+public/brain/front45.png
+public/brain/rear45-*.png
+public/brain/side-*.png
